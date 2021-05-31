@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.ipynb_checkpoints
+*.ipynb
 .DS_Store
 *.DS_Store
 # C extensions
@@ -144,7 +145,5 @@ cython_debug/
 .vscode
 
 # customer
-app/upload_images/
-app/frontend/static/.well-known/pki-validation/33B4E13C3E2C7CC2DE59A11E1072C7B9.txt
-
+.pypirc
 
