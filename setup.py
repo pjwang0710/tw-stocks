@@ -8,7 +8,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     url='https://github.com/pjwang0710/tw-stocks',
-    version='0.1.0',
+    version='0.1.1',
     license='MIT',
     packages=['tw_stocks'],
     install_requires=[

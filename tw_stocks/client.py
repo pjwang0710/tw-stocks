@@ -2,7 +2,7 @@ import requests
 import datetime
 from requests.exceptions import HTTPError
 
-DEFAULT_TWSTOCKS_URL = 'http://appworks.octave.vip'
+DEFAULT_TWSTOCKS_URL = 'https://appworks-api.octave.vip'
 
 
 class TWStocks():
